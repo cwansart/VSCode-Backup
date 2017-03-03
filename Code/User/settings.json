@@ -1,0 +1,9 @@
+// Platzieren Sie Ihre Einstellungen in dieser Datei, um die Standardeinstellungen zu überschreiben.
+{
+    "editor.fontFamily": "Source Code Pro",
+	"editor.insertSpaces": false,
+	"window.zoomLevel": 0,
+	"telemetry.enableCrashReporter": false,
+	"telemetry.enableTelemetry": false,
+	"workbench.colorTheme": "Visual Studio Light"
+}
