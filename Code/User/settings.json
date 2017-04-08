@@ -1,3 +1,4 @@
+// Platzieren Sie Ihre Einstellungen in dieser Datei, um die Standardeinstellungen zu überschreiben.
 {
     "editor.cursorBlinking": "solid",
     "editor.fontFamily": "Source Code Pro",
@@ -6,6 +7,9 @@
     "editor.tabSize": 4,
 
     "explorer.openEditors.visible": 0,
+
+    "git.enabled": false,
+    "git.autorefresh": false,
 
     "telemetry.enableCrashReporter": false,
     "telemetry.enableTelemetry": false,
