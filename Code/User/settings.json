@@ -1,10 +1,11 @@
-// Platzieren Sie Ihre Einstellungen in dieser Datei, um die Standardeinstellungen zu überschreiben.
 {
     "editor.cursorBlinking": "solid",
+    "editor.renderWhitespace": "boundary",
     "editor.fontFamily": "Source Code Pro",
-    "editor.insertSpaces": false,
     "editor.rulers": [80, 120],
     "editor.tabSize": 4,
+    "editor.tabCompletion": true,
+    "editor.folding": false,
 
     "explorer.openEditors.visible": 0,
 
