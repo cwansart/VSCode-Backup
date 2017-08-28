@@ -15,7 +15,7 @@
     "telemetry.enableCrashReporter": false,
     "telemetry.enableTelemetry": false,
 
-    "workbench.colorTheme": "Visual Studio Light",
+    "workbench.colorTheme": "Adapta Nokto",
     "workbench.sideBar.location": "left",
 
     "window.zoomLevel": 0
