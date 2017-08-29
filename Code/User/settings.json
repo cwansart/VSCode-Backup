@@ -15,7 +15,9 @@
     "telemetry.enableCrashReporter": false,
     "telemetry.enableTelemetry": false,
 
-    "workbench.colorTheme": "Adapta Nokto",
+    // installed via ctrl+p -> ext install dark-plus-material
+    // also nice: Adapta Nokto
+    "workbench.colorTheme": "Dark+ Material",
     "workbench.sideBar.location": "left",
 
     "window.zoomLevel": 0
